@@ -1,7 +1,0 @@
-Username: soumitri12
-Contest no: 5
-Contest name: Codeforces Round #615 (Div. 3)
-Rank: 6765
-Solved: 1
-Rating Change: -15
-New Rating: 1132
