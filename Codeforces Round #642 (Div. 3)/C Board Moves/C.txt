@@ -1,0 +1,15 @@
+Problem URL: https://codeforces.com/contest/1353/problem/C
+I/O statements for C Board Moves 
+
+---------------------------------------------------
+ Input 
+3
+1
+5
+499993
+
+ Output 
+0
+40
+41664916690999888
+---------------------------------------------------
